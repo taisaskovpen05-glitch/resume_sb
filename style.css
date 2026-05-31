@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+}
+
+header a{
+    background-color: rgb(88, 212, 112);
+    color: white;
+    padding: 8px;
+    border-radius: 30%;
+}
+
+ul{
+    background-color: rgb(143, 181, 181);
+    color: white;
+}
